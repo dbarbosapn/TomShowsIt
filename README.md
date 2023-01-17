@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/dbarbosapn/TomShowsIt/master/.img/logo.png" alt="TomShowsIt" width="200">
+  <img src="https://raw.githubusercontent.com/dbarbosapn/TomShowsIt/master/.img/logo.png?raw=true" alt="TomShowsIt" width="200">
   <br>
   Tom Shows It
 </h1>

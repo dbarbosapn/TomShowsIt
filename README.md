@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/dbarbosapn/TomShowsIt/master/.img/logo.png?raw=true" alt="TomShowsIt" width="200">
+  <img src="../.img/logo.png" alt="TomShowsIt" width="200">
   <br>
   Tom Shows It
 </h1>
@@ -15,6 +15,8 @@
 
 
 ![img1](./.img/img1.jpg)
+
+
 Note: You can right click this icon to exit the application
 - Press Windows + Shift + Tab to take a snippet of your screen. Click and drag your mouse to select the area of the snippet.
 - The "TomShowsIt Editor" window will show up. You can `Right-Click` to set your Tom pointing from the right, `Left-Click` to set it pointing from the left, `ESC` to leave and `ENTER` to save the image to the clipboard.

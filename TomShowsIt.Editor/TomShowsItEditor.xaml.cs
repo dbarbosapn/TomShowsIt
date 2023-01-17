@@ -68,7 +68,6 @@ namespace TomShowsIt.Editor
             g.CompositingMode = CompositingMode.SourceOver;
             tomBmp.MakeTransparent();
 
-            MessageBox.Show($"{(float)pos.X - offsetX * scaleFactor}\n{(float)pos.Y - offsetY * scaleFactor}\n{tomBmp.Width * scaleFactor}\n{tomBmp.Height * scaleFactor}");
             g.DrawImage(tomBmp, (float)pos.X - offsetX * scaleFactor, (float)pos.Y - offsetY * scaleFactor, tomBmp.Width * scaleFactor, tomBmp.Height * scaleFactor);
 
             EditorImage.Source = newImage.GetSource();
